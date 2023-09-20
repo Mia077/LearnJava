@@ -9,6 +9,6 @@ public class Main {
 
         nume = 'B';
         nrTren = 323;
-        garaDePlecare = 'New';
+
     }
 }
