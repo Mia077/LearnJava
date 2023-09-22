@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="449123ad-d52b-4a89-8e17-582ecb6c7eff" name="Changes" comment="The new Changes did for git !!!">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/classesandobjects/ManageAutoservice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/classesandobjects/autoservicetask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/classesandobjects/autoservicetask/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/classesandobjects/autoservicetask/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
+    <list default="true" id="449123ad-d52b-4a89-8e17-582ecb6c7eff" name="Changes" comment="Added details about population evidence by using  various access modifiers.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/AritmeticOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/AssignmentOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/ComparisonOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/DayOfTheWeekService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/GradeSystemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/LogicalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/operationsandciclicfunctions/PrintNumberService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/teckwil/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/teckwil/com/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="TA4Task_cu_instructiuni" />
+                    <option name="lastUsedInstant" value="1695289460" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="TA-1_Branching_Strategy_Programe" />
                     <option name="lastUsedInstant" value="1694623858" />
