@@ -6,8 +6,8 @@ public class PrintNumberService {
         int limit = 400;
         while (a > 0){
             System.out.println(a+ " ,");
-              a = a -1;
-              a -=1;
+              //a = a -1;
+             // a -=1;
             a--;
         }
         //Valoarea lui a dupa ce iese din ciclul while este 0
@@ -21,9 +21,12 @@ public class PrintNumberService {
         for (int i = 1; i <= limit; i++){
             if ((i % 2 ) == 0){
                 System.out.println(i + ", ");
-            } else {
+
+             }
+        else {
                 System.out.println("[], ");
             }
         }
+
     }
 }
