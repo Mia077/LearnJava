@@ -7,25 +7,25 @@ public class DayOfTheWeekService {
         System.out.println(dayName.toUpperCase());
 
         switch(dayName.toUpperCase()){
-            case "Luni":
+            case "LUNI":
                 dayNumber = 1;
                 break;
-            case "Marti":
+            case "MARTI":
                 dayNumber = 2;
                 break;
-            case "Miercuri":
+            case "MIERCURI":
                 dayNumber = 3;
                 break;
-            case  "Joi":
+            case  "JOI":
                 dayNumber = 4;
                 break;
-            case "Vineri":
+            case "VINERI":
                 dayNumber = 5;
                 break;
-            case "Sambata":
+            case "SAMBATA":
                 dayNumber = 6;
                 break;
-            case "Duminica":
+            case "DUMINICA":
                 dayNumber = 7;
                 break;
             default:
